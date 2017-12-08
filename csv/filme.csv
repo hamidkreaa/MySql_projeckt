@@ -1,0 +1,41 @@
+0;titel;regisseur_id;jahr;beschreibung;runtime;bild;land
+1;The Godfather;1;1972;The Godfather, Drama,Crime;N/A;;USA
+2;Alien;2;1979;Alien, Science Fiction,Horror;N/A;;USA
+3;Apocalypse Now;1;1979;Apocalypse Now, Kriegsfilme,Drama;N/A;;USA
+4;Taxi Driver;3;1976;Taxi Driver, Drama,Sonstige;N/A;;USA
+5;Blade Runner;2;1982;Blade Runner, Science Fiction,Drama,Thriller;N/A;;USA
+6;Reservoir Dogs;4;1992;Reservoir Dogs, Thriller,Sonstige;N/A;;USA
+7;In the name of the father;5;1993;In the name of the father, Drama,Sonstige;N/A;;Irland
+8;Goodfellas;3;1990;Goodfellas ,Crime;N/A;;USA
+9;Metropolis;6;1927;Metropolis, Drama,Science Fiction;N/A;;Deutschland
+10;The good the bad and the ugly;7;1966;The good the bad and the ugly, Western;N/A;;Italien
+11;Das weisse Band;8;2009;Das weisse Band, Drama;N/A;;Deutschland
+12;The Terminator;9;1984;The Terminator,Action,Science Fiction;N/A;;USA
+13;Jaws;10;1975;Jaws, Abenteuer,Horror;N/A;;USA
+14;Funny Games;8;1997;Funny Games, Crime,Drama,Horror;N/A;;Deutschland
+15;Barton Fink;12;1991;Barton Fink, Comedy,Drama;N/A;;USA
+16;My left foot;5;1989;My left foot, Drama,Sonstige;N/A;;Irland
+17;Shichinin no samurai;11;1954;Shichinin no samurai, Action,Abenteuer,Drama;N/A;;Japana
+18;Aliens;9;1986;Aliens,Action,Science Fiction;N/A;;USA
+19;Raiders of the Lost Ark;10;1981;Raiders of the Lost Ark, Action,Abenteuer;N/A;;USA
+20;Pulp Fiction;4;1994;Pulp Fiction, Crime,Drama,Comedy;N/A;;USA
+21;The Big Lebowski;12;1998;The Big Lebowski, Crime,Comedy;N/A;;USA
+22;Yojimbo;11;1961;Yojimbo, Action,Drama,Thriller;N/A;;Japana
+23;Star Wars;13;1977;Star Wars, Action,Abenteuer,Fantasy;N/A;;USA
+24;Die Hard;14;1988;Die Hard, Action,Thriller;N/A;;USA
+25;The Mission;15;1986;The Mission, Drama,Abenteuer;N/A;;UK
+26;Delicatessen;16;1991;Delicatessen, Comedy,Crime;N/A;;Frankreich
+27;Fargo;12;1996;Fargo, Crime,Drama,Thriller;N/A;;USA
+28;Predator;14;1987;Predator, Action,Horror,Science Fiction;N/A;;USA
+29;Life of Brian;17;1979;Life of Brian, Comedy;N/A;;UK
+30;Star Wars: Episode V - The Empire Strikes Back;13;1980;Star Wars: Episode V - The Empire Strikes Back, Action,Abenteuer,Fantasy;N/A;;USA
+31;Amour;8;2012;Amour, Drama,Sonstige;N/A;;Deutschland
+32;Ran;11;1985;Ran, Action,Drama;N/A;;Japana
+33;Amelie;16;2001;Amelie, Comedy,Sonstige;N/A;;Frankreich
+34;Kill Bill Vol.1;4;2003;Kill Bill Vol.1, Action,Thriller;N/A;;USA
+35;The Last of the Mohicans;18;1992;The Last of the Mohicans, Action,Abenteuer,Drama;N/A;;USA
+36;Monty Python and the Holy Grail ;17;1975;Monty Python and the Holy Grail , Abenteuer,Comedy;N/A;;UK
+37;For a few dollars more;7;1965;For a few dollars more, Western;N/A;;Italien
+38;Trainspotting;19;1996;Trainspotting, Drama;N/A;;Schotland
+39;Dracula ;1;1992;Dracula, Fantasy,Horror,Sonstige;N/A;;USA
+40;Heat;18;1995;Heat, Action,Crime,Drama;N/A;;USA
